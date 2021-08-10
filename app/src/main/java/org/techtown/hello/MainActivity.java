@@ -12,6 +12,7 @@ import com.google.android.material.tabs.TabLayout;
 import org.techtown.hello.Adapters.ViewPagerAdapter;
 import org.techtown.hello.Fragments.RecorderFragment;
 import org.techtown.hello.Fragments.RecordingsFragment;
+import org.techtown.hello.Fragments.ScheduleFragment;
 
 public class MainActivity extends AppCompatActivity {
     private Toolbar toolbar;
@@ -33,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void setupViewpager(ViewPager viewPager){
         ViewPagerAdapter viewPagerAdapter = new ViewPagerAdapter(getSupportFragmentManager());
+        viewPagerAdapter.addFragment(new ScheduleFragment(), "Schedule");
         viewPagerAdapter.addFragment(new RecorderFragment(), "Recorder");
         viewPagerAdapter.addFragment(new RecordingsFragment(), "Recordings");
         viewPager.setAdapter(viewPagerAdapter);

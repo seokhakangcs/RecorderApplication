@@ -13,6 +13,8 @@
         <entry key="app/src/main/res/layout/custom_item.xml" value="0.5364583333333334" />
         <entry key="app/src/main/res/layout/fragment_recorder.xml" value="0.5364583333333334" />
         <entry key="app/src/main/res/layout/fragment_recordings.xml" value="0.5364583333333334" />
+        <entry key="app/src/main/res/layout/fragment_schedule.xml" value="0.2598385469223007" />
+        <entry key="app/src/main/res/layout/monday_layout.xml" value="0.2598385469223007" />
       </map>
     </option>
   </component>
