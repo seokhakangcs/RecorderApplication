@@ -25,6 +25,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".Fragments.Monday"></activity>
+        <activity android:name=".Fragments.DayPicker"></activity>
+
         <provider
             android:authorities="${applicationId}.provider"
             android:name="androidx.core.content.FileProvider"

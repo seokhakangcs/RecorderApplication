@@ -3,14 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.18981481481481483" />
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.5567708333333333" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.5567708333333333" />
         <entry key="app/src/main/res/drawable/ic_record.xml" value="0.5567708333333333" />
         <entry key="app/src/main/res/drawable/ic_recordings.xml" value="0.5567708333333333" />
         <entry key="app/src/main/res/drawable/ic_stop.xml" value="0.5567708333333333" />
         <entry key="app/src/main/res/drawable/round_btn.xml" value="0.5567708333333333" />
+        <entry key="app/src/main/res/layout/activity_alarm_time_view.xml" value="0.18012108980827446" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.34024179620034545" />
         <entry key="app/src/main/res/layout/custom_item.xml" value="0.5364583333333334" />
+        <entry key="app/src/main/res/layout/daypicker_layout.xml" value="0.18012108980827446" />
         <entry key="app/src/main/res/layout/fragment_recorder.xml" value="0.5364583333333334" />
         <entry key="app/src/main/res/layout/fragment_recordings.xml" value="0.5364583333333334" />
         <entry key="app/src/main/res/layout/fragment_schedule.xml" value="0.2598385469223007" />

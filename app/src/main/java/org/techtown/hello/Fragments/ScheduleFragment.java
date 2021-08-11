@@ -27,7 +27,7 @@ public class ScheduleFragment extends Fragment {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(view.getContext(), Monday.class);
+                Intent intent = new Intent(view.getContext(), DayPicker.class);
                 startActivity(intent);
             }
         });
