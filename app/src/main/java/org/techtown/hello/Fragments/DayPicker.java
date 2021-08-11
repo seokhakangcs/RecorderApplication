@@ -64,7 +64,7 @@ public class DayPicker extends FragmentActivity {
         cbThu=findViewById(R.id.cb_thu);
         cbFri=findViewById(R.id.cb_fri);
         cbSat=findViewById(R.id.cb_sat);
-        
+        //
         register = findViewById(R.id.button);
         unregister = findViewById(R.id.button2);
         register.setOnClickListener(new View.OnClickListener(){
